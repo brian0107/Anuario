@@ -1,0 +1,8 @@
+# Ignorar un archivo específico
+package-lock.json
+
+# Ignorar todos los archivos con una extensión específica
+*.log
+
+# Ignorar una carpeta y su contenido
+node_modules/
